@@ -1,2 +1,3 @@
-Git tutorial revision
- -feature -A
+#Git チュートリアル
+-feature-A
+-fix-B
